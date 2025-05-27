@@ -43,6 +43,15 @@ Here are some ideas to get you started:
 </p>
 
 ---
+---
+
+## 🧰 Bases de datos que uso 
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
 
 ## 🌸 Proyectos que me gustan
 
