@@ -19,18 +19,19 @@ Here are some ideas to get you started:
   <img src="https://media.tenor.com/SGKP3L2OUoMAAAAC/hello-kitty.gif" width="200"/>
 </p>
 <p align="center">
-  ¡Bienvenid@ a mi GitHub! Soy estudiante de <strong>Licenciatura en Actuaría</strong> y me encanta el <strong>análisis de datos, programar , estadística y Hello Kitty</strong> 💻🎀
+  ¡Bienvenid@ a mi GitHub! Soy estudiante de <strong>Licenciatura en Actuaría</strong> y me encanta el <strong>análisis de datos, programar y la estadística </strong> 💻🎀
 </p>
 
 ---
 
 ## 💖 Sobre mí
 
-- 🎓 Estudio **Licenciatura en Actuaría**
+- 🎓 Estudio **Licenciatura en Actuaría** en la Facultad de Ciencias Físico Matemáticas, UANL
 - 📈 Me interesa la **ciencia de datos**, **estadística** y **programación**
+- 👩🏽‍💻 Amplio conocimiento en **Calculo actuarial** de seguros de **vida y daños**
 - 💡 Siempre estoy aprendiendo cosas nuevas
-- 🌟 Amante del estilo kawaii y de Hello Kitty 🐱🎀
-- 🏉 Juego al rugby y entreno en el gym cuando no estoy estudiando
+- 🌟 Chica girly, fan de Sanrio 🐱🎀
+- 🏉 Apasionada por los deportes, practico rugby, tocho y gym 💪🏽
 
 ---
 
@@ -40,9 +41,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
----
 ---
 
 ## ✅ Bases de datos que uso 
