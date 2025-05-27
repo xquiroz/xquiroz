@@ -20,12 +20,8 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   ¡Bienvenid@ a mi GitHub! Soy estudiante de <strong>Licenciatura en Actuaría</strong> y me encanta el <strong>análisis de datos, programar y la estadística </strong> 💻🎀
-</p>
-
----
-<h1 align="center">
   "Tu identidad es la repetición del existir"
-</h1>
+</p>
 
 ## 💖 Sobre mí
 
