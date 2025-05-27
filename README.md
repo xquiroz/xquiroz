@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://media.tenor.com/SGKP3L2OUoMAAAAC/hello-kitty.gif" width="200"/>
 </p>
 <p align="center">
-  ¡Bienvenid@ a mi GitHub! Soy estudiante de <strong>Licenciatura en Actuaría</strong> y me encanta el <strong>análisis de datos, programar y Hello Kitty</strong> 💻🎀
+  ¡Bienvenid@ a mi GitHub! Soy estudiante de <strong>Licenciatura en Actuaría</strong> y me encanta el <strong>análisis de datos, programar , estadística y Hello Kitty</strong> 💻🎀
 </p>
 
 ---
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🎓 Estudio **Licenciatura en Actuaría**
 - 📈 Me interesa la **ciencia de datos**, **estadística** y **programación**
-- 💡 Siempre estoy aprendiendo cosas nuevas (Python, R)
+- 💡 Siempre estoy aprendiendo cosas nuevas
 - 🌟 Amante del estilo kawaii y de Hello Kitty 🐱🎀
 - 🏉 Juego al rugby y entreno en el gym cuando no estoy estudiando
 
