@@ -56,9 +56,4 @@ Here are some ideas to get you started:
 
 - 💌 ximena2003md@gmail.com
 
----
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Nm8ZPAGOwZUQM/giphy.gif" width="100"/>
-</p>
-<p align="center"><em>“Sé tú mism@, a menos que puedas ser Hello Kitty. Entonces sé Hello Kitty.” 🐱🎀</em></p>
