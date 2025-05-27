@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 </p>
 
 ---
-<p align="center">
+<h1 align="center">
   "Tu identidad es la repetición del existir"
-</p>
----
+</h1>
 
 ## 💖 Sobre mí
 
