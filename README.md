@@ -63,7 +63,7 @@ Los proyectos relevantes en los que eh trabajado aplicando mis conocimientos en 
 | 📁 Repositorio | ✨ Descripción |
 |---------------|----------------|
 | `Estadistica` | Apuntes completos de la facultad 📊 |
-| `Análisis de datos` | Apuntes completos de la facultad 📊 |
+| `Analisis de datos` | Apuntes completos de la facultad 📊 |
 | `Seguros` | Apuntes completos de la facultad 📊 |
 ---
 
