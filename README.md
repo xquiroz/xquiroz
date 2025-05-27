@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   ¡Bienvenid@ a mi GitHub! Soy estudiante de <strong>Licenciatura en Actuaría</strong> y me encanta el <strong>análisis de datos, programar y la estadística 💻🎀
-    "Tu identidad es la repetición del existir"</strong> 
+        "Tu identidad es la repetición del existir"</strong> 
   
 </p>
 
