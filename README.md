@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 </p>
 
 ---
+<p align="center">
+  "Tu identidad es la repetición del existir"
+</p>
+---
 
 ## 💖 Sobre mí
 
@@ -55,12 +59,14 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌸 Proyectos que me gustan
+## 🌸 Proyectos en los que he trabajado
+Los proyectos relevantes en los que eh trabajado aplicando mis conocimientos en diferentes áreas de mi formación academica
 
 | 📁 Repositorio | ✨ Descripción |
 |---------------|----------------|
 | `Estadistica` | Apuntes completos de la facultad 📊 |
-
+| `Análisis de datos` | Apuntes completos de la facultad 📊 |
+| `Seguros` | Apuntes completos de la facultad 📊 |
 ---
 
 ## 📫 Contacto
