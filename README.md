@@ -19,8 +19,9 @@ Here are some ideas to get you started:
   <img src="https://media.tenor.com/SGKP3L2OUoMAAAAC/hello-kitty.gif" width="200"/>
 </p>
 <p align="center">
-  ¡Bienvenid@ a mi GitHub! Soy estudiante de <strong>Licenciatura en Actuaría</strong> y me encanta el <strong>análisis de datos, programar y la estadística </strong> 💻🎀
-  "Tu identidad es la repetición del existir"
+  ¡Bienvenid@ a mi GitHub! Soy estudiante de <strong>Licenciatura en Actuaría</strong> y me encanta el <strong>análisis de datos, programar y la estadística 💻🎀
+    "Tu identidad es la repetición del existir"</strong> 
+  
 </p>
 
 ## 💖 Sobre mí
