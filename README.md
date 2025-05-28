@@ -40,24 +40,16 @@ Here are some ideas to get you started:
 ## 🧰 Tecnologías que uso
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<p>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LINDO-FF6600?style=for-the-badge&logo=lindo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Minitab-0078D4?style=for-the-badge&logo=minitab&logoColor=white"/>
-
-
-</p>
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Minitab](https://img.shields.io/badge/Minitab-005B7F?style=for-the-badge&logo=data&logoColor=white)
+![LINDO](https://img.shields.io/badge/LINDO%20Software-808080?style=for-the-badge&logo=matrix&logoColor=white)
 
 ---
 
 ## ✅ Bases de datos que uso 
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
 ---
 
