@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## 💖 Sobre mí
 
 - 🎓 Estudio **Licenciatura en Actuaría** en la Facultad de Ciencias Físico Matemáticas, UANL
-- 📈 Me interesa la **ciencia de datos**, **estadística** y **programación**
+- 📈 Me interesa la **análisis de datos**, **estadística** y **programación**
 - 👩🏽‍💻 Amplio conocimiento en **Cálculo actuarial** de seguros de **vida y daños**
 - 🗣️ Domino el idioma **Inglés** con nivel C1
 - 💡 Siempre estoy aprendiendo cosas nuevas
