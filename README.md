@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧰 Tecnologías que uso
+## 🧰 Herramientas y programación que uso
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -63,7 +63,7 @@ Los proyectos relevantes en los que eh trabajado aplicando mis conocimientos en 
 | `Seguros` | Simulaciones y apuntes de calculos actuariales, programando diferentes distribuciones de probabilidad  |
 ---
 
-## 📫 Contacto
+## 📫 Correo
 
 - 💌 ximena2003md@gmail.com
 
