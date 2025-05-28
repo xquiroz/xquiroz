@@ -66,9 +66,9 @@ Los proyectos relevantes en los que eh trabajado aplicando mis conocimientos en 
 
 | 📁 Repositorio | ✨ Descripción |
 |---------------|----------------|
-| `Estadistica` | Apuntes completos de la facultad 📊 |
-| `Analisis de datos` | Apuntes completos de la facultad 📊 |
-| `Seguros` | Apuntes completos de la facultad 📊 |
+| `Estadistica` | Apuntes y proyectos realizados en el transcurso de mi formación academica, con diferentes aplicaciones utilizando diferentes herramientas de programación y hojas de calculo 📊 |
+| `Analisis de datos` | Análisis de diferentes bases de datos con los apuntes de cada uno de los resultados utilizando diferentes herramientas y calculos como la programación, bases de datos y hojas de calculo|
+| `Seguros` | Simulaciones y apuntes de calculos actuariales, programando diferentes distribuciones de probabilidad  |
 ---
 
 ## 📫 Contacto
