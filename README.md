@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/LINDO-FF6600?style=for-the-badge&logo=lindo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Minitab-0078D4?style=for-the-badge&logo=minitab&logoColor=white"/>
 
