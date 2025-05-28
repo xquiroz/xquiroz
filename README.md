@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Minitab](https://img.shields.io/badge/Minitab-005B7F?style=for-the-badge&logo=data&logoColor=white)
 ![LINDO](https://img.shields.io/badge/LINDO%20Software-808080?style=for-the-badge&logo=matrix&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 ---
 
